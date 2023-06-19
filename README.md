@@ -13,3 +13,6 @@ docker pull mathidiot/streamlit-stuff
 
 # Start the instance
 docker run -p 8501:8501 mathidiot/streamlit-stuff
+
+# Launch the server under your localhost
+http://localhost:8501/
