@@ -12,4 +12,4 @@ docker push mathidiot/sttreamlit-stuff
 docker pull mathidiot/streamlit-stuff
 
 # Start the instance
-docker run -p 8501:8501 mathidiot/streamlist-stuff
+docker run -p 8501:8501 mathidiot/streamlit-stuff
