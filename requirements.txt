@@ -2,3 +2,8 @@ streamlit
 pandas
 numpy
 matplotlib
+plotly
+textblob
+scikit-learn
+spacy
+statsmodels
