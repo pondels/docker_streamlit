@@ -2,8 +2,3 @@ streamlit
 pandas
 numpy
 matplotlib
-plotly
-textblob
-sklearn
-spacy
-AST

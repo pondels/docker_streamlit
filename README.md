@@ -1,4 +1,6 @@
 # Creating a Docker account
+Go to the following website and create an account with github if you haven't already.
+
 ```https://hub.docker.com/```
 
 # What Now?
@@ -12,7 +14,7 @@
 ### Building the docker file
 - #### Now we have to build the docker file to port it to our brand new repository.
 - #### We do this by using our DockerFile, which you can browse
-```docker build -t username/docker-repository -f ./DockerFile .```
+```docker build -t username/docker-repository -f ./Dockerfile .```
 
 ### Pushing garbage to your streamlet-docker application
 ```docker push username/docker-repository```
