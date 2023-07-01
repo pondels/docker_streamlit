@@ -1,3 +1,10 @@
+# right click this file's tab above in VS Code and click the "COPY PATH" button
+
+#  pip install streamlit
+#  streamlit run <insert path of this file here>
+#  run the code above in the terminal
+
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px

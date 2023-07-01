@@ -5,11 +5,11 @@
 
 ## Step 1: Run this line of code
 
-```docker pull username/repository-name```
+```docker pull ajaverett0/rps_game```
 
 ## Step 2: Run this line of code
 
-```docker run -p 8501:8501 username/repository-name```
+```docker run -p 8501:8501 ajaverett0/rps_game```
 
 .
 .
