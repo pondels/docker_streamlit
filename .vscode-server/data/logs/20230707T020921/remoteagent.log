@@ -1,0 +1,25 @@
+2023-07-07 02:09:21.687 [info] 
+
+
+
+
+2023-07-07 02:09:21.810 [info] Extension host agent started.
+2023-07-07 02:09:22.346 [debug] No uninstalled extensions found.
+2023-07-07 02:09:22.357 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-07-07 02:09:22.381 [debug] ComputeTargetPlatform: linux-x64
+2023-07-07 02:09:22.396 [info] [127.0.0.1][a92793a8][ManagementConnection] New connection established.
+2023-07-07 02:09:22.400 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-07-07 02:09:22.419 [info] Log level changed to info
+2023-07-07 02:09:22.878 [info] [127.0.0.1][645458b3][ExtensionHostConnection] New connection established.
+2023-07-07 02:09:23.040 [info] [127.0.0.1][645458b3][ExtensionHostConnection] <264> Launched Extension Host Process.
+2023-07-07 02:10:07.609 [info] Getting Manifest... ms-python.python
+2023-07-07 02:10:07.819 [info] Installing extension: ms-python.python
+2023-07-07 02:10:08.945 [info] Getting Manifest... ms-python.vscode-pylance
+2023-07-07 02:10:09.331 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-07-07 02:10:16.098 [info] Extension signature is verified: ms-python.python
+2023-07-07 02:12:16.385 [info] Extracted extension to /root/.vscode-server/extensions/.6e18b43e-fce8-44bd-b13d-e805cd65f587: ms-python.python
+2023-07-07 02:12:16.430 [info] Renamed to /root/.vscode-server/extensions/ms-python.python-2023.12.0
+2023-07-07 02:12:16.474 [info] Extracting extension completed. ms-python.python
+2023-07-07 02:12:21.874 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-07-07 02:13:21.010 [info] [127.0.0.1][a92793a8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-07 02:13:21.071 [info] [127.0.0.1][645458b3][ExtensionHostConnection] <264> Extension Host Process exited with code: 0, signal: null.
