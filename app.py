@@ -3,7 +3,6 @@ import streamlit as st
 
 
 st.title('User Data Collection Form')
-st.title("Clara was here")
 
 # Part One: Text Elements:
 ##########################
